@@ -1,3 +1,4 @@
 python-telegram-bot==20.7
 yt-dlp
-flask
+flask==2.3.3
+gunicorn==21.2.0
